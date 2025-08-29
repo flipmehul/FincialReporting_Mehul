@@ -1,4 +1,4 @@
-# Power BI Dashboard — UT Series (Lectures 1–27)
+# Financial reporting and analysis - Power BI Dashboard
 
 Files:
 - `FinancialReporting_MehulMiddha.pbix` — Power BI report file
